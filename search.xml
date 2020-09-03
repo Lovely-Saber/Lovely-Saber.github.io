@@ -27,4 +27,93 @@
         <tag>骚话</tag>
       </tags>
   </entry>
+  <entry>
+    <title>3DMax</title>
+    <url>/2020/09/03/3DMax/</url>
+    <content><![CDATA[<p>3dMAX快捷键命令大全</p>
+<p>1.单字母类快捷键</p>
+<p>A-角度捕捉开关</p>
+<p>B-切换到底视图</p>
+<p>C-切换到摄象机视图</p>
+<p>D-封闭视窗</p>
+<p>E-切换到轨迹视图</p>
+<p>F-切换到前视图</p>
+<p>G-切换到网格视图</p>
+<p>H-显示通过名称选择对话框</p>
+<p>I-交互式平移</p>
+<p>J-选择框显示切换</p>
+<p>K-切换到背视图</p>
+<p>L-切换到左视图</p>
+<p>M-材质编辑器</p>
+<p>N-动画模式开关</p>
+<p>O-自适应退化开关</p>
+<p>P-切换到透视用户视图</p>
+<p>Q-显示选定物体三角形数目</p>
+<p>R-切换到右视图</p>
+<p>S-捕捉开关</p>
+<p>T-切换到顶视图</p>
+<p>U-切换到等角用户视图</p>
+<p>V-旋转场景</p>
+<p>W-最大化视窗开关</p>
+<p>X-中心点循环</p>
+<p>Y-工具样界面转换</p>
+<p>Z-缩放模式</p>
+<p>[-交互式移近</p>
+<p>]-交互式移远</p>
+<p>/-播放动画2常用快捷键F1-帮助文件</p>
+<p>F3-线框与光滑高亮显示切换</p>
+<p>F4-Edged Faces显示切换</p>
+<p>F5-约束到X轴方向</p>
+<p>F6-约束到Y轴方向</p>
+<p>F7-约束到Z轴方向</p>
+<p>F8-约束轴面循环</p>
+<p>F9-快速渲染</p>
+<p>F10-渲染场景</p>
+<p>F11-MAX脚本程序编辑</p>
+<p>F12-键盘输入变换Delete-删除选定物体</p>
+<p>SPACE-选择集锁定开关</p>
+<p>END-进到最后一帧</p>
+<p>HOME-进到起始帧</p>
+<p>INSERT-循环子对象层级</p>
+<p>PAGEUP-选择父系</p>
+<p>PAGEDOWN-选择子系3常用组合键CTRL+A-重做场景操作CTRL+B-子对象选择开关</p>
+<p>CTRL+F-循环选择模式</p>
+<p>CTRL+L-默认灯光开关</p>
+<p>CTRL+N-新建场景</p>
+<p>CTRL+O-打开文件</p>
+<p>CTRL+P-平移视图</p>
+<p>CTRL+R-旋转视图模式</p>
+<p>CTRL+S-保存文件</p>
+<p>CTRL+T-纹理校正</p>
+<p>CTRL+T-打开工具箱（Nurbs曲面建模）</p>
+<p>CTRL+Z-取消场景操作</p>
+<p>SHIFT+A-重做视图操作</p>
+<p>SHIFT+B-视窗立方体模式开关</p>
+<p>SHIFT+C-显示摄象机开关</p>
+<p>SHIFT+F-显示安全框开关</p>
+<p>SHIFT+G-显示网络开关</p>
+<p>SHIFT+H-显示辅助物体开关</p>
+<p>SHIFT+I-显示最近渲染生成的图象</p>
+<p>SHIFT+L-显示灯光开关</p>
+<p>SHIFT+O-显示几何体开关</p>
+<p>SHIFT+P-显示粒子系统开关</p>
+<p>SHIFT+Q-快速渲染</p>
+<p>SHIFT+R-渲染场景</p>
+<p>SHIFT+S-显示形状开关</p>
+<p>SHIFT+W-显示空间扭曲开关</p>
+<p>SHIFT+Z-取消视窗操作</p>
+<p>SHIFT+4-切换到聚光灯/平行灯光视图</p>
+<p>SHIFT+-交换布局</p>
+<p>SHIFT+SPACE-创建旋转锁定键</p>
+<p>ALT+S-网格与捕捉设置</p>
+<p>ALT+SPACE-循环通过捕捉</p>
+<p>ALT+CTRL+SPACE-偏移捕捉</p>
+<p>SHIFT+CTRL+A-自适应透视网线开关</p>
+<p>SHIFT+CTRL+P-百分比捕捉开关</p>
+<p>SHIFT+CTRL+Z全部充满视窗</p>
+]]></content>
+      <tags>
+        <tag>3DMax</tag>
+      </tags>
+  </entry>
 </search>
