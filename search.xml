@@ -1,24 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2020/09/03/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>骚话</title>
     <url>/2020/09/03/saohua/</url>
     <content><![CDATA[]]></content>
@@ -32,7 +14,7 @@
       </tags>
   </entry>
   <entry>
-    <title>Quotations</title>
+    <title>骚话</title>
     <url>/2020/09/02/Quotations/</url>
     <content><![CDATA[<h2 id="修士（骚话）"><a href="#修士（骚话）" class="headerlink" title="修士（骚话）"></a>修士（骚话）</h2><h3 id="菜的不行（骚话记不住）"><a href="#菜的不行（骚话记不住）" class="headerlink" title="菜的不行（骚话记不住）"></a>菜的不行（骚话记不住）</h3><h3 id="练气（骚话）"><a href="#练气（骚话）" class="headerlink" title="练气（骚话）"></a>练气（骚话）</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">练气，筑基，金丹，元婴，分神，合体，渡劫。</span><br></pre></td></tr></table></figure>
 
@@ -41,5 +23,8 @@
 <h3 id="金丹（骚话）"><a href="#金丹（骚话）" class="headerlink" title="金丹（骚话）"></a>金丹（骚话）</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">吾辈修道者首先要守得住清贫，耐得住寂寞，抵得住诱惑，顶得住压力，抗得住打击，经得住考验。</span><br></pre></td></tr></table></figure>
 
 ]]></content>
+      <tags>
+        <tag>骚话</tag>
+      </tags>
   </entry>
 </search>
