@@ -183,6 +183,44 @@
   {% if theme.sakura.enable %}
       <script async src="/js/sakura.js"></script>
   {% endif %}
+  <p id="hitokoto">:D 获取中...</p>
+<!-- 以下写法，选取一种即可 -->
+​
+<!-- 现代写法，推荐 -->
+<!-- 兼容低版本浏览器 (包括 IE)，可移除 -->
+<script src="https://cdn.jsdelivr.net/npm/bluebird@3/js/browser/bluebird.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/whatwg-fetch@2.0.3/fetch.min.js"></script> -->
+<!--End-->
+<script>
+  fetch('https://v1.hitokoto.cn/?c=b')
+    .then(function (res){
+      return res.json();
+    })
+    .then(function (data) {
+      var hitokoto = document.getElementById('hitokoto');
+      hitokoto.innerText = data.hitokoto; 
+    })
+    .catch(function (err) {
+      console.error(err);
+    })
+</script>
+​
+<!-- 老式写法，兼容性最忧 -->
+<!-- <script>
+  var xhr = new XMLHttpRequest();
+  xhr.open('get', 'https://v1.hitokoto.cn/?c=b');
+  xhr.onreadystatechange = function () {
+    if (xhr.readyState === 4) {
+      var data = JSON.parse(xhr.responseText);
+      var hitokoto = document.getElementById('hitokoto');
+      hitokoto.innerText = data.hitokoto;
+    }
+  }
+  xhr.send();
+</script> -->
+​
+<!-- 新 API 方法， 十分简洁 -->
+<!-- <script src="https://v1.hitokoto.cn/?encode=js&select=%23hitokoto" defer></script> -->
 <script src="/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"pluginModelPath":"assets/","model":{"jsonPath":"/live2dw/assets/koharu.model.json"},"display":{"position":"right","width":300,"height":600},"mobile":{"show":false},"rect":"opacity:0.7","log":false,"pluginJsPath":"lib/","pluginRootPath":"live2dw/","tagMode":false});</script></body>
 </html>
 <!--单击显示文字-->
