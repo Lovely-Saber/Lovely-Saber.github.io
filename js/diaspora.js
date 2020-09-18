@@ -415,7 +415,7 @@ $(function() {
 					{typed.destroy(); typed = null;}
 				else{
 					if($("#hitokoto").data('st') == true){
-						$.get("https://v1.hitokoto.cn/?c", function (data) {
+						$.get("https://v1.hitokoto.cn/?a", function (data) {
 						var data = data;
 						var str =  data.hitokoto + " ——  By "		
 						var options = {
